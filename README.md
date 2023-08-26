@@ -1,2 +1,2 @@
-# typefaceoff.github.io
-The Typefaceoff website.
+# Typefaceoff Website
+Currently, this will redirect to `/typefaceoff`.
